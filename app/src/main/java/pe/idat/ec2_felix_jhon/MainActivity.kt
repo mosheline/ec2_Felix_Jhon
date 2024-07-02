@@ -19,7 +19,8 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             Ec2_Felix_JhonTheme {
-                informacionScreen()
+                //informacionScreen()
+                ConciertoScreen()
             }
         }
     }
